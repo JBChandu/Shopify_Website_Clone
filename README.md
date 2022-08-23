@@ -17,7 +17,7 @@
 - Adding HTML Part took 3-5 hour.
 - Tailwind css part and Responsive Design part took more than 6-8 hour.
 
-**Live Link :** [Click Here](https://shopify-website.netlify.app/ "Deployed on Netlify")
+**Live Link :** [Click Here](https://shopify-web-site.netlify.app/ "Deployed on Netlify")
 
 >### Preview :
 
