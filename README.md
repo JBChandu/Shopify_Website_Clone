@@ -2,7 +2,7 @@
 
 ## **Project: Shopify Website UI Clone Project using Tailwind CSS.**
 
-![Badge for Project-15](https://img.shields.io/badge/Tailwind%20CSS-Shopify-brightgreen "Paytm website Clone")
+![Badge for Project-15](https://img.shields.io/badge/Tailwind%20CSS-Shopify-brightgreen "Shopify website Clone")
 
 ![Badge with LCO and ineuron tagged](https://img.shields.io/badge/Ineuron.ai-LCO-blue)
 
